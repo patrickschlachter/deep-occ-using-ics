@@ -2,13 +2,11 @@
 
 This repository contains an implementation of a one-class classification method using deep learning. The method was proposed in our "Deep One-Class Classification Using Intra-Class Splitting" paper presented at the IEEE Data Science Workshop 2019. It is based on intra-class splitting, i.e. splitting given normal samples into typical and atypical subsets:
 
-<div style="text-align: center;">
-<span style="display: inline-block; width:50%;">
-<img width="80%" src="images/typical.png" />
-</span><span style="display: inline-block; width:50%;">
-<img width="80%" src="images/atypical.png" />
-</span>
-</div>
+<p align="center">
+<img width="40%" src="images/typical.png" />
+<img width="5%" />
+<img width="40%" src="images/atypical.png" />
+</p>
 
 ## Paper
 [Deep One-Class Classification Using Intra-Class Splitting](https://arxiv.org/abs/1902.01194)  
