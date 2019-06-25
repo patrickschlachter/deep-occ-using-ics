@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time     : 18/8/2 12:09
 # @Author   : Yiwen Liao
-# @File     : visualizations.py
+# @File     : main.py
 # @Software : PyCharm
 # @License  : Copyright(C), Yiwen Liao
 # @Contact  : yiwen.liao93@gmail.com
